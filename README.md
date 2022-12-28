@@ -1,2 +1,2 @@
-# leetcode
-My solutions to various LeetCode problems in various languages.
+# LeetCode Solutions
+Here I'm compiling various solutions of mine to LeetCode problems.
