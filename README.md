@@ -1,2 +1,3 @@
 # LeetCode Solutions
-Here I'm compiling various solutions of mine to LeetCode problems.
+Solutions to LeetCode practice problems in various languages.
+ - JavaScript (@jD2R, @thelegendski)
