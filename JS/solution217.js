@@ -1,3 +1,3 @@
-var containsDuplicate = function(nums) {
-    return [...new Set(nums)].length != nums.length;
-};
+function containsDuplicate (nums) {
+    return new Set(nums).size !== nums.length;
+}
