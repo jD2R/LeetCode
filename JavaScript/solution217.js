@@ -1,5 +1,5 @@
 /**
  * @param {Array} nums
- * @return {Boolean}
+ * @returns {Boolean}
  */
 const containsDuplicate = nums => new Set(nums).size !== nums.length;

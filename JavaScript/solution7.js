@@ -1,6 +1,6 @@
 /**
  * @param {Number} x
- * @return {Number}
+ * @returns {Number}
  */
 const reverse = x => {
     x = x.toString();
