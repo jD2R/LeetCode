@@ -1,3 +1,7 @@
+/**
+ * @param {Number} x
+ * @return {Number}
+ */
 const reverse = x => {
     x = x.toString();
     let cache = '';
